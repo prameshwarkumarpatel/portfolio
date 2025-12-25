@@ -66,8 +66,8 @@ export default function Contact() {
         </div>
       </form>
       <div style={{marginTop:16, display:'flex', gap:12}}>
-        <a className="btn ghost" href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">LinkedIn</a>
-        <a className="btn ghost" href="https://github.com/yourname" target="_blank" rel="noreferrer">GitHub</a>
+        <a className="btn ghost" href="https://www.linkedin.com/in/prameshwar-kumar-patel-5a677a2ba/" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a className="btn ghost" href="https://github.com/prameshwarkumarpatel" target="_blank" rel="noreferrer">GitHub</a>
         <a className="btn ghost" href="https://twitter.com/yourhandle" target="_blank" rel="noreferrer">Twitter</a>
         <a className='bgn primary' href="https://youtu.be" target="_blank" rel="noreferrer" > Youtube</a>
       </div>
